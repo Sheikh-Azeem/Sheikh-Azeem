@@ -35,9 +35,6 @@ Version Control: Git & GitHub
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)  
 
-
-TypeScript Next.js Tailwind CSS GitHub
-
 📫 Connect With Me
 
 GitHub: https://github.com/Sheikh-Azeem
